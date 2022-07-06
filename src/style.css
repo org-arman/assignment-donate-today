@@ -162,10 +162,6 @@ p {
     text-align: center;
 }
 
-.input-email {
-    text-align: center;
-    margin: 20px 0;
-}
 
 .input-email {
     text-align: center;
@@ -187,6 +183,10 @@ p {
     border-radius: 7px 0 0 7px;
 }
 
+form{
+    display: flex;
+}
+
 .input-email button {
     width: 157px;
     height: 50px;
@@ -195,6 +195,16 @@ p {
 
 .project-area {
     margin-top: 100px;
+}
+
+.project-title{
+    text-align: center;
+    width: 60%;
+    margin: 0 auto;
+}
+
+.project-title h1{
+    font-size: 45px;
 }
 
 .project-img {
