@@ -224,21 +224,11 @@ img.project-card-img {
 .project-card {
     display: flex;
     align-items: center;
-    padding: 70px;
+    padding: 50px;
     background: #dddddd29;
     width: 80%;
     border-right: 1px solid #ddd;
 }
-
-
-
-
-
-
-
-
-
-
 
 
 footer {
